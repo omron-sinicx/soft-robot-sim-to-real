@@ -13,7 +13,7 @@ image: https://omron-sinicx.github.io/soft-robot-sim-to-real/assets/teaser.png
 url: https://omron-sinicx.github.io/soft-robot-sim-to-real
 authors:
   - name: Yuni Fuchioka
-    affiliation: [1, 2]
+    affiliation: [1*, 2]
     url: https://yunifuchioka.github.io/
     position: Intern
   - name: Cristian Beltran-Hernandez
@@ -21,7 +21,7 @@ authors:
     position: Senior Researcher
     url: https://cristianbehe.me/
   - name: Hai Nguyen
-    affiliation: [1, 3]
+    affiliation: [1*, 3]
     position: Intern 
     url: https://hai-h-nguyen.github.io/
   - name: Masashi Hamaya
