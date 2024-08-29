@@ -38,6 +38,14 @@ affiliations:
   - Northeastern University
 meta:
   - '* work done as an intern at OMRON SINIC X.'
+bibtex: >
+  @inproceedings{Fuchioka2024iros,
+    title={Robotic Object Insertion with a Soft Wrist through Sim-to-Real Privileged Training},
+    author={Yuni Fuchioka, Cristian C. Beltran-Hernandez, Hai Nguyen, and Masashi Hamaya},
+    booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+    organization={IEEE}
+    year={2024}
+  }
 header:
   bg_curve:
     sinic_curve.png
