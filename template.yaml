@@ -1,34 +1,33 @@
 theme: default # default || dark
 organization: OMRON SINIC X
 twitter: '@omron_sinicx'
-title: 'Multi-Agent Behavior Retrieval: Retrieval-Augmented Policy Training for Cooperative Manipulation by Mobile Robots'
+title: 'Robotic Object Insertion with a Soft Wrist through Sim-to-Real Privileged Training'
 conference: IROS2024
 resources:
-  paper: https://arxiv.org/abs/1909.13111
-  code: https://github.com/omron-sinicx/multipolar
-  video: https://www.youtube.com/embed/W8nBFKDxsb0
-  blog: https://medium.com/sinicx/multipolar-multi-source-policy-aggregation-for-transfer-reinforcement-learning-between-diverse-bc42a152b0f5
-  huggingface: https://huggingface.co/
+  #paper: https://arxiv.org/abs/1909.13111
+  code: https://github.com/omron-sinicx/soft-robot-sim-to-real
+  video: https://www.youtube.com/embed/YdnnlbKd7Oc
+  #blog: https://medium.com/sinicx/multipolar-multi-source-policy-aggregation-for-transfer-reinforcement-learning-between-diverse-bc42a152b0f5
 description: explore a new challenge in transfer RL, where only a set of source policies collected under unknown diverse dynamics is available for learning a target task efficiently.
-image: https://omron-sinicx.github.io/multipolar/assets/teaser.png
-url: https://omron-sinicx.github.io/multipolar
-speakerdeck: b7a0614c24014dcbbb121fbb9ed234cd
+image: https://omron-sinicx.github.io/soft-robot-sim-to-real/assets/teaser.png
+url: https://omron-sinicx.github.io/soft-robot-sim-to-real
 authors:
-  - name: So Kuroki
+  - name: Yuni Fuchioka
     affiliation: [1, 2]
-    url: http://barekatain.me/
-    position: intern
-  - name: Mai Nishimura
+    url: https://yunifuchioka.github.io/
+    position: Intern
+  - name: Cristian Beltran-Hernandez
     affiliation: [1]
     position: Senior Researcher
-    url: https://denkiwakame.github.io
-  - name: Tadashi Kozuno
+    url: https://cristianbehe.me/
+  - name: Hai Nguyen
     affiliation: [1]
-    position: Senior Researcher
+    position: Intern 
+    url: https://hai-h-nguyen.github.io/
+  - name: Masashi Hamaya
+    affiliation: [1]
+    position: Principal Investigator
     url: https://sites.google.com/view/masashihamaya/home
-    #  - name: Mai Nishimura
-    #    affiliation: [1]
-    #    url: https://denkiwakame.github.io
     #  - name: Asako Kanezaki
     #    affiliation: [2]
     #    url: https://kanezaki.github.io/
