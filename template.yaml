@@ -4,7 +4,7 @@ twitter: '@omron_sinicx'
 title: 'Robotic Object Insertion with a Soft Wrist through Sim-to-Real Privileged Training'
 conference: IROS2024
 resources:
-  #paper: https://arxiv.org/abs/1909.13111
+  paper: https://arxiv.org/abs/2408.17061
   code: https://github.com/omron-sinicx/soft-robot-sim-to-real
   video: https://www.youtube.com/embed/YdnnlbKd7Oc
   #blog: https://medium.com/sinicx/multipolar-multi-source-policy-aggregation-for-transfer-reinforcement-learning-between-diverse-bc42a152b0f5
